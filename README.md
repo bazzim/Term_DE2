@@ -12,6 +12,10 @@ Karola Takacs, Tamas Stahl, Mariam Bazzi
 Includes the ETL data pipeline and dashboard at the end
 ​
 ​
+### Scripts
+After cleaning, the final dataset was persisted in SQL
+
+
 ### Presentation
 ​
 ​
